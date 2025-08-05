@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_meli_connector_user,meli.connector.user,model_meli_connector,base.group_user,1,0,0,0
+access_meli_connector_manager,meli.connector.manager,model_meli_connector,fleet.fleet_group_manager,1,1,1,1
+access_meli_connector_system,meli.connector.system,model_meli_connector,base.group_system,1,1,1,1

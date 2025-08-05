@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="default_meli_connector" model="meli.connector">
+            <field name="name">Conector MercadoLibre Argentina</field>
+            <field name="access_token">APP_USR-8059881865312015-080419-c552702e6ecab04ffafbe1b6c1160f08-389541663</field>
+            <field name="site_id">MLA</field>
+            <field name="active">True</field>
+        </record>
+    </data>
+</odoo>
